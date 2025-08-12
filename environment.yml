@@ -1,5 +1,6 @@
 dependencies:
   - cdsapi
+  - dask
   - numpy
   - netCDF4
   - xarray
